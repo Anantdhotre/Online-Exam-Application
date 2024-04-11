@@ -15,3 +15,4 @@ Used MYSQL for database management, including schema design and query optimizati
 
 Used Angular Framework for creating user interface and displaying questions dynamically on the client side.
 
+These technologies collectively contribute to a robust and efficient Online Examination System.
